@@ -1,0 +1,5 @@
+.Ds_Store
+node_modules/
+.mp4
+*.mp4
+
